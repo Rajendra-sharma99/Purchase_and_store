@@ -5,7 +5,7 @@ This is a Purchase and Store module using JavaScript, Node.js, Express, Mongoose
 ### Getting Started
 
 ![Dean Module](https://res.cloudinary.com/sharma-rajendra/image/upload/v1656615805/Purchase_ans_store/dean1_ylhz1i.jpg)
-![] (https://res.cloudinary.com/sharma-rajendra/image/upload/v1656615805/Purchase_ans_store/dean2_ykcsyq.jpg)
+![](https://res.cloudinary.com/sharma-rajendra/image/upload/v1656615805/Purchase_ans_store/dean2_ykcsyq.jpg)
 ![](https://res.cloudinary.com/sharma-rajendra/image/upload/v1656615805/Purchase_ans_store/dean3_sbscj9.jpg)
 
 
