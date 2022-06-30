@@ -1,0 +1,24 @@
+{
+  "name": "purchase_and_store-main",
+  "version": "1.0.0",
+  "description": "This is a Purchase and Store module using JavaScript, Node.js, Express, Mongoose, EJS and express-sessions.",
+  "main": "passport-config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "connect-mongo": "^4.6.0",
+    "dotenv": "^16.0.0",
+    "ejs": "^3.1.6",
+    "env": "^0.0.2",
+    "express": "^4.17.3",
+    "express-session": "^1.17.2",
+    "mongoose": "^6.3.0",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7"
+  }
+}
